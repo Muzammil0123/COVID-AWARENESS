@@ -1,0 +1,25 @@
+body{
+    width:100%;
+    background-color: rgb(152, 90, 214);
+}
+.container{
+    width:80%;
+    margin:100px auto;
+}
+.container ul li{
+    
+   
+    background-color: black;
+    color:white;
+    margin:0px 10px;
+    font-size:30px;
+    text-align: center;
+    padding:20px; 
+
+}
+.container ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
